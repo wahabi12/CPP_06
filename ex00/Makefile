@@ -1,6 +1,6 @@
 CXX = c++
 CXXFLAGS = -Wall -Wextra -Werror -std=c++98
-NAME = scalar_converter
+NAME = convert
 
 SRCS = main.cpp ScalarConverter.cpp
 OBJS = $(SRCS:.cpp=.o)

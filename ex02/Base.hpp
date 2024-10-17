@@ -6,7 +6,7 @@
 /*   By: blatifat <blatifat@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/06 01:57:24 by blatifat          #+#    #+#             */
-/*   Updated: 2024/10/06 02:04:04 by blatifat         ###   ########.fr       */
+/*   Updated: 2024/10/17 04:45:11 by blatifat         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 
 class Base {
 public:
-    virtual ~Base();  // Destructeur virtuel pour la destruction polymorphique
+	virtual ~Base();
 };
 
 #endif
